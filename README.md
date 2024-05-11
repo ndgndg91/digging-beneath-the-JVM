@@ -8,3 +8,7 @@
   - vm 은 스택 메모리를 동적으로 확장하는 기능을 지원하나, 가용 메모리가 부족해 스택을 더 확장할 수 없다면 OutOfMemoryError 던진다.
   - -Xss180k 를 통해 스택 메모리 용량을 줄여 StackOverFlowError 를 발생
   - 지역 변수를 많이 선언하여 메서드 프레임의 지역 변수 테이블 크기를 키워 StackOverFlowError 를 발생
+## Runtime Constant Pool OutOfMemoryError
+  - runtime constant pool 은 메서드 영역에 있다.
+  - JDK8 이상 버전 핫스팟 JVM 은 metaspace 에 runtime constant pool 을 구현했다.
+  - JDK7 이하 버전 핫스팟 JVM 은 PermGen space 영구 세대에 runtime constant pool 을 구현했다. 
