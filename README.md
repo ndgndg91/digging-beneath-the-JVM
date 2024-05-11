@@ -16,7 +16,7 @@
 - JDK8 이상 버전 핫스팟 JVM 은 힙에 runtime constant pool 을 구현했다.
 - JDK7 이하 버전 핫스팟 JVM 은 Method Area 에 있는 PermGen space 에 힙과를 별개의 영역으로 runtime constant pool 을 구현했다.
 
-## Method Area
+## Method Area OutOfMemoryError
   - 타입 관련 정보 저장
     - 클래스 이름
     - 접근 제한자
