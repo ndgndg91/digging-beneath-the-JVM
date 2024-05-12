@@ -1,4 +1,4 @@
-package com.ndgndg91.stack;
+package com.ndgndg91.chapter2.stack;
 
 public class JavaVMStackOverFlow_2 {
     private static int stackLength = 0;

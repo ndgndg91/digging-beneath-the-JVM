@@ -1,4 +1,4 @@
-package com.ndgndg91.nativememory;
+package com.ndgndg91.chapter2.nativememory;
 
 import sun.misc.Unsafe;
 

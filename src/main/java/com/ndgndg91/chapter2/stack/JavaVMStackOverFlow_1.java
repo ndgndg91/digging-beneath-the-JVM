@@ -1,4 +1,4 @@
-package com.ndgndg91.stack;
+package com.ndgndg91.chapter2.stack;
 
 /**
  * VM ARG : -Xss180k

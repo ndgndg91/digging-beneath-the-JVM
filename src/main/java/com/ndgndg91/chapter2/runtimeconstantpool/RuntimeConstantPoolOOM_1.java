@@ -1,4 +1,4 @@
-package com.ndgndg91.runtimeconstantpool;
+package com.ndgndg91.chapter2.runtimeconstantpool;
 
 import java.util.HashSet;
 

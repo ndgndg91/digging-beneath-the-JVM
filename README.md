@@ -1,6 +1,7 @@
 # JVM 밑바닥까치 파헤치기
 <img src="https://www.boardinfinity.com/blog/content/images/2022/11/Your-paragraph-text--57-.jpg" alt="jvm">
 
+# Chapter2
 ## Heap OutOfMemoryError
   - 자바 힙은 객체 인스턴스를 저장하는 공간. 무한 루프를 통해서 끝없이 객체를 생성하여 Heap 메모리 증가 
   - JVM option 을 사용하여 메모리 동적 증가를 제한하고, oom 시 heap 제공하도록 설정

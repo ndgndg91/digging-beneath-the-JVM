@@ -1,4 +1,4 @@
-package com.ndgndg91.heap;
+package com.ndgndg91.chapter2.heap;
 
 import java.util.ArrayList;
 

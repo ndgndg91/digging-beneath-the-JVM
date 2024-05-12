@@ -1,4 +1,4 @@
-package com.ndgndg91.stack;
+package com.ndgndg91.chapter2.stack;
 
 /**
  * VM ARG : -Xss2M(현재는 더 클 수 있으니 32비트 시스템에서 실행할 것)

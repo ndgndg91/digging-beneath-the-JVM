@@ -1,4 +1,4 @@
-package com.ndgndg91.methodarea;
+package com.ndgndg91.chapter2.methodarea;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
